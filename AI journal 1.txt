@@ -1,1 +1,3 @@
 Week 1 journal
+This week I used AI once. I used ChatGPT to explain the actions of each of the basic Python functions we were expected to use for Exercise set number 1. On top of this, I also had to use ChatGPT to learn how to create a txt file on GitHub. All of this is relatively new to me, so AI has been helping me get into the groove of things with this course.
+Link: https://chatgpt.com/share/68c78733-5124-8006-b190-a3c2a5392d2d 
